@@ -1,0 +1,13 @@
+C:\Users\a7med\Documents\Visual Studio 2019\Projects\HangMan\HangMan\bin\Debug\HangMan.exe.config
+C:\Users\a7med\Documents\Visual Studio 2019\Projects\HangMan\HangMan\bin\Debug\HangMan.exe
+C:\Users\a7med\Documents\Visual Studio 2019\Projects\HangMan\HangMan\bin\Debug\HangMan.pdb
+C:\Users\a7med\Documents\Visual Studio 2019\Projects\HangMan\HangMan\obj\Debug\HangMan.csprojAssemblyReference.cache
+C:\Users\a7med\Documents\Visual Studio 2019\Projects\HangMan\HangMan\obj\Debug\HangMan.Properties.Resources.resources
+C:\Users\a7med\Documents\Visual Studio 2019\Projects\HangMan\HangMan\obj\Debug\HangMan.csproj.GenerateResource.cache
+C:\Users\a7med\Documents\Visual Studio 2019\Projects\HangMan\HangMan\obj\Debug\HangMan.csproj.CoreCompileInputs.cache
+C:\Users\a7med\Documents\Visual Studio 2019\Projects\HangMan\HangMan\obj\Debug\HangMan.exe
+C:\Users\a7med\Documents\Visual Studio 2019\Projects\HangMan\HangMan\obj\Debug\HangMan.pdb
+C:\Users\a7med\Documents\Visual Studio 2019\Projects\HangMan\HangMan\obj\Debug\HangMan.StartUpPage.resources
+C:\Users\a7med\Documents\Visual Studio 2019\Projects\HangMan\HangMan\obj\Debug\HangMan.GameForm.resources
+C:\Users\a7med\Documents\Visual Studio 2019\Projects\HangMan\HangMan\obj\Debug\HangMan.AgainForm.resources
+C:\Users\a7med\Documents\Visual Studio 2019\Projects\HangMan\HangMan\obj\Debug\HangMan.Start.resources
